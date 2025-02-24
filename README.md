@@ -1,1 +1,1 @@
-# www.rupsaclub.github.io
+# rupsaclub.github.io
